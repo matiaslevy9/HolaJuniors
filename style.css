@@ -1,0 +1,70 @@
+body{
+    background-color: #F3F3F3;
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+#principal{
+   margin: 180px auto;
+}
+
+#mainImg{
+    margin-left: 50%;
+    width: 110%;
+    height: 100%;
+}
+
+#boxTitle{
+    text-align:left ;
+    margin-top: 10%;
+}
+
+#headerPhoto{
+    width: 30%;
+    height: 300%;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    /*font-size: 400%;*/
+    font-size: 4.5vw;
+    color: black;
+    
+}
+h2{
+    /*font-size: 150%;*/
+
+    font-size: 20px;
+    color: black;
+}
+p{
+    color: #979797
+}
+
+.portfolioImg{
+    width: 110%;
+    height: 100%;
+}
+
+a{
+    color: black;
+    font-size: 18px;
+}
+
+.material-symbols-outlined {
+font-size: 18px;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 600,
+  'GRAD' 0,
+  'opsz' 0,
+}
+
+
+hr{
+ margin: 5% auto;
+ height: 5px;
+    width: 75%;
+ color: black;
+}
